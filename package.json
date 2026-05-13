@@ -1,0 +1,13 @@
+{
+  "name": "board-game-hub-matchmaking",
+  "version": "1.0.0",
+  "description": "Matchmaking server for Board Game Hub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "socket.io": "^4.7.2"
+  }
+}
